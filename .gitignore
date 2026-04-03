@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TaskBoard/.vs/TaskBoard
+/TaskBoard/Taskboard.askService/bin/Debug/net8.0
+/TaskBoard/Taskboard.askService/obj
+/TaskBoard/TaskBoard.AuthService/bin/Debug/net8.0
+/TaskBoard/TaskBoard.AuthService/obj
