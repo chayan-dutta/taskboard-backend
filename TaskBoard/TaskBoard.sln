@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBoard.AuthService", "TaskBoard.AuthService\TaskBoard.AuthService.csproj", "{6CB1089A-D1B8-4C2E-99D0-693A37314C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskboard.askService", "Taskboard.askService\Taskboard.askService.csproj", "{E1F0781A-01FD-4E2D-A846-441485567077}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskboard.TaskService", "Taskboard.askService\Taskboard.TaskService.csproj", "{E1F0781A-01FD-4E2D-A846-441485567077}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
